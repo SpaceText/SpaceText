@@ -103,7 +103,7 @@ hr {
 }
 
 .showcase {
-  width: 100%;
+  width: 90%;
   height: 670px;
   background: url("../batman.jpg") no-repeat center center/cover;
   display: flex;
