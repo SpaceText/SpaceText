@@ -106,8 +106,8 @@ hr {
 
 .showcase {
   width: 90%;
-  height: 710px;
-  background: url("../batman.jpg") no-repeat center center/cover  40px;
+  height: 950px;
+ background: url("../zuck.png") center;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -250,6 +250,11 @@ hr {
 
 
   }
+
+  
+
+
+
 
   .menu-btn:hover {
     opacity: 0.5;
